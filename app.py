@@ -24,7 +24,7 @@ DEFAULT_BOOTH_ASSIGNMENTS = {
     "Booth #1": "Felipe Moreno",
     "Booth #2": "David Fain",
     "Booth #3": "Xavier Butler",
-    "Booth #4": "Roy Ordanes",
+    "Booth #4": "Roy Ordones",
     "Booth #5": "Rafael Perez",
     "Booth #6": "Jacob Riyanto",
     "Booth #7": "N/A",
